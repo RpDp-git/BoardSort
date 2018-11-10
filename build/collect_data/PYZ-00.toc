@@ -1,0 +1,1125 @@
+('D:\\BoardSort\\ss\\build\\collect_data\\PYZ-00.pyz',
+ [('multiprocessing.popen_fork',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\runpy.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\imp.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('exifread',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\__init__.py',
+   'PYMODULE'),
+  ('exifread.utils',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\utils.py',
+   'PYMODULE'),
+  ('exifread.tags',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\__init__.py',
+   'PYMODULE'),
+  ('exifread.tags.makernote',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\makernote\\__init__.py',
+   'PYMODULE'),
+  ('exifread.tags.makernote.olympus',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\makernote\\olympus.py',
+   'PYMODULE'),
+  ('exifread.tags.makernote.nikon',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\makernote\\nikon.py',
+   'PYMODULE'),
+  ('exifread.tags.makernote.fujifilm',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\makernote\\fujifilm.py',
+   'PYMODULE'),
+  ('exifread.tags.makernote.casio',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\makernote\\casio.py',
+   'PYMODULE'),
+  ('exifread.tags.makernote.canon',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\makernote\\canon.py',
+   'PYMODULE'),
+  ('exifread.tags.makernote.apple',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\makernote\\apple.py',
+   'PYMODULE'),
+  ('exifread.tags.exif',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\tags\\exif.py',
+   'PYMODULE'),
+  ('exifread.classes',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\classes.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('exifread.exif_log',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\exifread\\exif_log.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('icalendar',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\__init__.py',
+   'PYMODULE'),
+  ('icalendar.parser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\parser.py',
+   'PYMODULE'),
+  ('icalendar.parser_tools',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\parser_tools.py',
+   'PYMODULE'),
+  ('icalendar.caselessdict',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\caselessdict.py',
+   'PYMODULE'),
+  ('icalendar.compat',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\compat.py',
+   'PYMODULE'),
+  ('icalendar.prop',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\prop.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('icalendar.windows_to_olson',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\windows_to_olson.py',
+   'PYMODULE'),
+  ('icalendar.timezone_cache',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\timezone_cache.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\fractions.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('icalendar.cal',
+   'c:\\users\\ravi '
+   'pradip\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\icalendar\\cal.py',
+   'PYMODULE')])
