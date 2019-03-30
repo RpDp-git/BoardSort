@@ -1,5 +1,5 @@
 # BoardSort
-Python based GUI program to sort photos based on .ics (calendar) files.
+Python based GUI program to sort photos(from lectures) based on .ics (calendar) files.
 
 #Instructions:
 
